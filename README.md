@@ -10,3 +10,5 @@ The Hostel In-Time Entry System is a simple Python script designed to manage and
 
 ### Technologies Used : 
 - **Python**: The project is implemented using Python, utilizing the datetime module for time management.
+
+### This Project was Implemented for the subject "Application Programming Practices".
